@@ -10,7 +10,8 @@ A 3D data enthusiast who loves to explore new technologies and leverage it to so
 - 📫 How to reach me: florent@learngeodata.eu
 - ⚡ Fun fact: I actually have no idea how "they" managed to mess up Star Wars so badly...
 
-### Blogs posts
+# Blog posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
