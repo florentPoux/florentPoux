@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-A 3D data enthusiast who loves to explore new technologies and leverage it to solve real-life problems.
+3D Data Researcher who loves to explore new technologies and leverage it to solve real-life problems.
 
 - 🔭 I’m currently working on a 3D Point Cloud Processing Knowledge Base 
 - 🌱 I’m currently learning how to manage my two daugthers while having time to code
